@@ -132,5 +132,14 @@ hr{
         width: 75%;
         box-shadow: 0 10px 0 25px var(--Very-dark-blue-5);
     }
+    
+    #pic1{
+        transform: translate(0px,-292px);
+        padding: 117px 119px;
+    }
+
+    #clock{
+        margin-right: 5px;
+    }
 }
 
