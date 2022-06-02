@@ -1,1 +1,1 @@
-# Project_6
+# Frontend Mentor | NFT preview card component solution
